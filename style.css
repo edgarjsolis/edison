@@ -1,0 +1,165 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.topnav {
+  background-color: #D3A630;
+  font-family: Roboto, sans-serif;
+  display:flex;
+  justify-content: center;
+}
+.topnav a {
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  text-decoration: none;
+  font-size: 16px;
+
+}
+
+.logo1{
+  height:123px;
+  width:123px;
+  
+}
+
+.maintitle{
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 35px;
+  color:#D3A630;
+  text-align: center;
+}
+.title{
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 25px;
+  color:#D3A630;
+  text-align: center;
+
+}
+.lowtitle{
+  font-family: "Times New Roman", Times, serif;
+  color:#D3A630;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 35px;
+  display:flex;
+}
+.lowtitle2{
+  font-family: "Times New Roman", Times, serif;
+  color:#D3A630;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 25px;
+}
+#adjust{
+  height:600px;
+  width:900px;
+  margin:10px;
+}
+.mainpic{
+  justify-content: center;
+  display:flex;
+}
+h3{
+  font-family: "Times New Roman", Times, serif;
+  color:#D3A630;
+}
+
+h2{
+  font-family: "Times New Roman", Times, serif;
+  color: #25125B;
+  font-weight: bold;
+  text-align: center;
+}
+h1{
+  font-family: "Times New Roman", Times, serif;
+  color: #25125B;
+  text-align: center;
+}
+
+.sks:hover{
+  filter: brightness(70%);
+}
+
+.downn{
+  background-color:#25125B;
+  height:325px;
+  padding:25px;
+  justify-content: space-between;
+  display:flex;
+}
+.edisonn{
+  display:flex;
+  justify-content: center;
+  padding-right:100px;
+  background-color: #25125B;
+}
+.idk{
+  padding-left:100px;
+}
+.dropbtn {
+  background-color: #D3A630;
+  color:white;
+  padding: 18px 20px;
+  font-size: 1.125em;
+  border: none;
+}
+.dropbtn:hover{
+  text-decoration: underline;
+  text-decoration-color:#d5ae42 ;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  font-size: 10px;
+  background-color: #f1f1f1;
+  width:150px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  text-decoration: none;
+
+}
+.smoll:hover{
+  color:#19255a;
+  background-color: #d5ae42;
+}
+.dropdown-content:hover{
+  text-decoration: none;
+
+}
+.lord1{
+  justify-content: center;
+  display:flex;
+}
+.lord{
+  padding:10px;
+  margin:10px;
+  background-color: whitesmoke;
+  width:1000px;
+  height:900px;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+
+.dropdown:hover .dropdown-content {display: block;}
+.vid{
+ padding:10px; 
+}
+
+
